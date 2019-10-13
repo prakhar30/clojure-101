@@ -1,10 +1,10 @@
 # clojure-101
 
-FIXME: My first experimentations with Clojure. 
+My first experimentations with Clojure. 
 
 ## Usage
 
-FIXME: explanation
+Simply run the jar file by - 
 
     $ java -jar clojure-101-0.1.0-standalone.jar
 
